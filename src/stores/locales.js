@@ -17,6 +17,7 @@ module.exports = {
     "toolbar.save": "Save image",
     "toolbar.copy": "Copy image",
     "toolbar.crop": "Crop image",
+    "test": "test",
     "toolbar.copied": "Image copied!",
     "toolbar.flip": "Flip image",
     "toolbar.rotate": "Rotate image",
